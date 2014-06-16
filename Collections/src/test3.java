@@ -15,6 +15,11 @@ public class test3 {
 		t.add(600);
 		t.add(750);
 		t.add(425);
+	
+		
+		test2 obj = new test2();
+		
+		
 		
 		System.out.println(t);
 		
